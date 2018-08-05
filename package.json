@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/howdy39/gas-clasp-starter.git"
+    "url": "git+https://github.com/nodaguti/gas-clasp-starter.git"
   },
   "keywords": [
     "gas",
     "google-apps-script",
     "clasp"
   ],
-  "author": "howdy39",
+  "author": "nodaguti",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/howdy39/gas-clasp-starter/issues"
+    "url": "https://github.com/nodaguti/gas-clasp-starter/issues"
   },
-  "homepage": "https://github.com/howdy39/gas-clasp-starter#readme",
+  "homepage": "https://github.com/nodaguti/gas-clasp-starter#readme",
   "devDependencies": {
     "@types/google-apps-script": "0.0.21",
     "ava": "^1.0.0-beta.6",
