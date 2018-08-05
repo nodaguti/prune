@@ -1,7 +1,12 @@
 {
   "compilerOptions": {
-    "sourceMap": true,
+    // language features
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+
+    // compile
     "target": "es5",
-    "module": "es2015"
+    "module": "es2015",
+    "sourceMap": true
   }
 }
