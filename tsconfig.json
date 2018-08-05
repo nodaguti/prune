@@ -7,6 +7,10 @@
     // compile
     "target": "es5",
     "module": "es2015",
-    "sourceMap": true
+    "sourceMap": true,
+
+    // type checking
+    "strict": true,
+    "noImplicitAny": true
   }
 }
