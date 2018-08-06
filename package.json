@@ -1,6 +1,6 @@
 {
-  "name": "gas-clasp-starter",
-  "version": "1.2.0",
+  "name": "Prune",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodaguti/gas-clasp-starter.git"
+    "url": "git+https://github.com/nodaguti/prune.git"
   },
   "keywords": [
     "gas",
@@ -21,9 +21,9 @@
   "author": "nodaguti",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nodaguti/gas-clasp-starter/issues"
+    "url": "https://github.com/nodaguti/prune/issues"
   },
-  "homepage": "https://github.com/nodaguti/gas-clasp-starter#readme",
+  "homepage": "https://github.com/nodaguti/prune#readme",
   "devDependencies": {
     "@types/google-apps-script": "0.0.21",
     "ava": "^1.0.0-beta.6",
@@ -52,5 +52,9 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "dependencies": {
+    "dotenv-webpack": "^1.5.7",
+    "option-t": "^18.0.0"
   }
 }
